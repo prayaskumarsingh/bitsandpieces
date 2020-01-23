@@ -155,6 +155,10 @@ footer{
 		margin: auto;
 		font-size: 1em;
 	}
+	.content-text{
+		font-size: 1em;
+		line-height: 1.2em;
+	}
 }
 footer a
 {
