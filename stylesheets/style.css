@@ -1,0 +1,166 @@
+html{
+}
+body{
+
+}
+a:hover{
+	color: #009688;
+	text-decoration: none;
+}
+nav{
+	opacity: 0.8;
+}
+.nav-link:hover{
+	color: #009688 !important;
+}
+.bgimage{
+	width:100%;
+	height:80vh;
+	min-height: 360px;
+	background: url('https://images.unsplash.com/photo-1438109491414-7198515b166b?q=80&fm=jpg&s=cbdabf7a79c087a0b060670a6d79726c');
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size:cover;
+	background-attachment: fixed;
+}
+.heroContainer{
+	height: 100%;
+}
+.heroContent{
+  top: 15%;
+}
+.heroTitle{
+	color: #ffffff;
+	font-size: 4.2rem;
+	text-shadow: 0px 3px 2px #333;
+	text-align: center;
+	margin-bottom: 0.3em;
+	line-height: 1em;
+	font-weight: 600
+}
+.heroPara{
+	color: #ffffff;
+	text-align: center;
+	font-size: 1.2em;
+}
+
+.vertical-center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+.card{
+	margin-top: 0.9em;
+	margin-bottom: 0.9em;
+}
+.card-title{
+	font-weight: 700;
+}
+.fshows{
+	background: #f9f9f9;
+	padding-top: 3.3em;
+	padding-bottom: 0.6em;
+}
+.fblog{
+	background: #fff;
+	padding-top: 3.3em;
+}
+.episodeNum{
+	font-weight: 500;
+	font-size: 0.9em;
+	color: #009688;
+	line-height: 0.9em;
+}
+.episodeTitle{
+	font-weight: 500;
+	font-size: 1.2em;
+	color: #000;
+	line-height: 0.9em;
+}
+a:hover .episodeNum{
+	text-decoration: underline;
+}
+.card{
+	padding-bottom: 0.9em;
+  	transition: 0.3s;
+}
+.card:hover{
+	box-shadow: 0px 0px 6px #999;
+}
+.card:hover .card-title{
+	color: #009688;
+}
+.list-group-item{
+	border: none;
+  	transition: 0.3s;
+}
+.list-group-item:hover{
+	box-shadow: 0px 0px 9px #ccc;
+	color: #009688;
+}
+.content-title{
+	font-weight: 600;
+	color: #333;
+	font-size: 2.1em;
+	line-height: 1.5em;
+}
+.content-text{
+	font-weight: 300;
+	color: #000;
+	font-size: 1.2em;
+	line-height: 1.5em;
+}
+.content-folder{
+	color: #009688;
+	line-height: 0.9em;
+	font-size: 0.9em;
+}
+.content-date{
+	text-align: right;
+	font-size: 0.9em;
+}
+.blogTitle{
+	color: #000;
+}
+.blogTeaser{
+	color: #000;
+}
+a:hover .blogTitle{
+	text-decoration: underline;
+	color: #009688;
+}
+footer{
+	color: #fff;	
+}
+.videoPlayer{
+	height: auto;
+	width: 100%;
+	min-height: 390px;
+}
+.aboutBox:hover h3{
+	color: #009688;
+}
+@media (max-width: 576px) {
+
+	.heroTitle{
+		font-size: 1.8rem;
+		font-weight: bold;
+	}
+
+	.heroPara{
+		color: #ffffff;
+		text-align: center;
+		margin: auto;
+		font-size: 1em;
+	}
+}
+footer a
+{
+	color: #009688;
+}
+footer a:hover
+{
+	text-decoration:underline;
+}
