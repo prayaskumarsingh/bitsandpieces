@@ -1,5 +1,13 @@
 let episodesList = [
   {
+    epNum: 6,
+    epName: "Careers in Sports",
+    with: "Sujit Panigrahi",
+    date: "23 Apr 2020",
+    about: `Through his work, Sujit is attempting to revolutionise the sporting industry, and change how sports are interacted with and percieved starting from a schooling level. He has many interesting ideas and insights, and is actively pursuing them as we speak. He talks about all the possible careers that one can have in sports, other than being a professional player, and how he sees the industry shifting in the short and long term.`,
+    link: "https://youtu.be/n0nTt5d6XSI",
+  },
+  {
     epNum: 5,
     epName: "Princeton Researcher/Social Entrepreneur",
     with: "Ramanan Laxminarayan",
@@ -81,4 +89,3 @@ let episodesList = [
     link: "https://youtu.be/Qb96SzIvDk4",
   },
 ];
-
