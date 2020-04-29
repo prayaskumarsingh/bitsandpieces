@@ -19,7 +19,7 @@ while (episodesList[i]) {
                         ></div>
                         <div class="text">
                             <h3 class="font-weight-light">
-                                <a href="single-post.html"
+                                <a href="${episodesList[i].link}"
                                 >Episode ${episodesList[i].epNum}: ${episodesList[i].epName}</a
                                 >
                             </h3>
