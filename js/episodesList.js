@@ -1,5 +1,13 @@
 let episodesList = [
   {
+    epNum: 7,
+    epName: "How To Get Your Start Up Funded",
+    with: "Sanjay Nath",
+    date: "30 Apr 2020",
+    about: `We had the opportunity to interact with him when he came down to BITS Goa for an alumni gathering, where he was a panellist. This was the first episode of the series that we shot, but probably the most insightful one of them all. In this episode, we spoke to him about his journey, what he looks for in the start ups that he invests in, the WHY of starting a company, and more.`,
+    link: "https://youtu.be/tdKIWoxCTLM",
+  },
+  {
     epNum: 6,
     epName: "Careers in Sports",
     with: "Sujit Panigrahi",
