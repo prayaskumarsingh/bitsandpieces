@@ -19,7 +19,7 @@ while (episodesList[i]) {
                         ></div>
                         <div class="text">
                             <h3 class="font-weight-light">
-                                <a href="${episodesList[i].link}"
+                                <a 
                                 >Episode ${episodesList[i].epNum}: ${episodesList[i].epName}</a
                                 >
                             </h3>
@@ -32,8 +32,11 @@ while (episodesList[i]) {
                             </div>
                             <p class="mb-4">
                                 ${episodesList[i].about}
-                                <a href="${episodesList[i].link}" class="link-to-yt"
+                                <a href="${episodesList[i].linkYT}" class="link-to-yt"
                                 >Watch on YouTube</a
+                                >
+                                <a href="${episodesList[i].linkSpotify}" class="link-to-Spotify"
+                                >Listen on Spotify</a
                                 >
                             </p>
                         </div>

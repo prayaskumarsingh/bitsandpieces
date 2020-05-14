@@ -13,10 +13,16 @@ heroHTML = `
     </div>
     <p>
       <a
-        href="${episodesList[0].link}"
-        class="btn btn-primary btn-sm py-3 px-4 small"
+        href="${episodesList[0].linkYT}"
+        class="btn btn-primary btn-sm py-3 px-4 small btn-YT"
       >
-        Watch the Episode
+        Watch on YouTube 
+      </a>
+      <a
+        href="${episodesList[0].linkSpotify}"
+        class="btn btn-primary btn-sm py-3 px-4 small btn-Spotify"
+      >
+        Listen on Spotify
       </a>
     </p>
   </div>

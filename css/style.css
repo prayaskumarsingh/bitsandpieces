@@ -1303,3 +1303,21 @@ a:hover {
 .link-to-yt {
   color: #f23a2e;
 }
+.link-to-Spotify {
+  color: #1db954;
+}
+.link-to-Spotify:hover {
+  color: #009934;
+}
+.btn-YT {
+  background-color: #f23a2e;
+  border-color: #f23a2e;
+}
+.btn-Spotify {
+  background-color: #1db954;
+  border-color: #1db954;
+}
+.btn-Spotify:hover {
+  background-color: #009934;
+  border-color: #009934;
+}

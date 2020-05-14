@@ -29,4 +29,16 @@ let guestsList = [
     img: "images/guest-SujitPanigrahi.jpg",
     about: `Sujit Panigrahi is a sports entrepreneur and the co-founder and CEO of Sequoia Fitness and Sports. He also holds many other illustrious credentials from the sports industry, including being the Additional Director General of Technology during the 2010 Delhi Commonwealth Games.`,
   },
+  {
+    guestNum: 5,
+    guestName: "Aravind SA",
+    img: "images/guest-AravindSA.jpg",
+    about: `Aravind SA is an internationally touring stand up comedian and a Visual Communication graduate and Filmmaker by education and Madrasi by default.`,
+  },
+  {
+    guestNum: 6,
+    guestName: "Sanjay Nath",
+    img: "images/guest-SanjayNath.jpg",
+    about: `Sanjay is a Co-Founder & Managing Partner of Blume Ventures, one of India's leading early stage VC firms.`,
+  },
 ];
