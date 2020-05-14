@@ -4,7 +4,7 @@ let episodesList = [
     epName: "Understanding Aravind SA",
     with: "Aravind SA",
     date: "9 May 2020",
-    about: `We had the chance to chat with him a while ago, and we had a genuinely interesting conversation about starting stand up, the challenges he faces and the lessons he's learned, and about life in general.`,
+    about: `Aravind SA is an internationally touring stand up comedian. We had the chance to chat with him and conversations about starting stand up, the challenges he faces and the lessons he's learned, and about life in general.`,
     linkYT: "https://youtu.be/JRyco84UxVE",
     linkSpotify: "https://open.spotify.com/episode/3GFkz98uQhOmI6dUwkv3Wp",
   },

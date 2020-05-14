@@ -16,13 +16,15 @@ heroHTML = `
         href="${episodesList[0].linkYT}"
         class="btn btn-primary btn-sm py-3 px-4 small btn-YT"
       >
-        Watch on YouTube 
+      Watch on 
+      <img src="css/youtube-brands.svg" style="height: 1.5em" />
       </a>
       <a
         href="${episodesList[0].linkSpotify}"
         class="btn btn-primary btn-sm py-3 px-4 small btn-Spotify"
       >
-        Listen on Spotify
+        Listen on 
+        <img src="css/spotify-brands.svg" style="height: 1.5em" />
       </a>
     </p>
   </div>

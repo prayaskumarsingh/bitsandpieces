@@ -69,6 +69,8 @@ a:hover {
   transition: 0.2s all ease-in-out !important;
   top: 0;
   letter-spacing: 0.05em;
+  margin-top: 3px;
+  margin-bottom: 3px;
 }
 .btn:hover,
 .btn:active,
