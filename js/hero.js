@@ -17,7 +17,7 @@ heroHTML = `
         class="btn btn-primary btn-sm py-3 px-4 small btn-YT"
       >
       Watch on 
-      <img src="css/youtube-brands.svg" style="height: 1.5em" />
+      <img src="css/youtube-brands.svg" style="height: 1.5em; color:#fff" />
       </a>
       <a
         href="${episodesList[0].linkSpotify}"

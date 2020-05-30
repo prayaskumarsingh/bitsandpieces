@@ -1,5 +1,14 @@
 let episodesList = [
   {
+    epNum: 9,
+    epName: "Building One of India's Top Start Ups at 27",
+    with: "Shashank Murali",
+    date: "30 May 2020",
+    about: `Shashank Murali is a young entrepreneur, and BITS Pilani alumnus. He sold his first start up, Edvice, while still in college. He then went on to create Tapchief(https://www.tapchief.com) , a freelancing platform, that is building a network that connects businesses to domain-specific professionals. Tapchief  is currently 3rd on the LinkedIn list of top Indian start ups. I had the opportunity to chat with this truly inspiring Indian entrepreneur, and get his take on all sorts of matters ranging from his opinion on how the world will change post the COVID-19 pandemic, to the hardest decisions he's had to make as CEO, how to get funded, and even advice that he has for young founders.`,
+    linkYT: "https://youtu.be/vDDo3MnIhdE",
+    linkSpotify: "https://open.spotify.com/episode/2NMHR2ZraQUBitKFxkTR0u",
+  },
+  {
     epNum: 8,
     epName: "Understanding Aravind SA",
     with: "Aravind SA",
