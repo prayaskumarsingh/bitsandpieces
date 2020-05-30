@@ -15,7 +15,7 @@ while (episodesList[i]) {
                     >
                         <div
                         class="image"
-                        style="background-image: url('images/ep${episodesList[i].epNum}.jpg');"
+                        style="background-image: url('${episodesList[i].img}');"
                         ></div>
                         <div class="text">
                             <h3 class="font-weight-light">
