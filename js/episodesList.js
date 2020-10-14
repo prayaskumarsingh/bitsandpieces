@@ -74,7 +74,7 @@ let episodesList = [
     date: "13 Apr 2020",
     about: ` Ramanan Laxminarayan is a BITS Pilani alumnus who is an economist and an epidemiologist. He is director of the Center for Disease Dynamics, Economics & Policy in Washington and a senior research scholar at Princeton. He is also one of India's top experts in COVID-19, and makes regular appearances on national and international news channels speaking on the same.`,
     img:
-      "https://drive.google.com/uc?export=view&id=1fhLbr_lvBKh0q3BlcGXdkRrh7fW0KxIG",
+      "https://drive.google.com/uc?export=view&id=16pdoKhkTvm21GlNYioxfh7q2AubT3m_f",
     linkYT: "https://youtu.be/yOsZNeAo95s",
     linkSpotify: "https://open.spotify.com/episode/08QIjDRDGLooQ3HfUKFUyy",
   },
@@ -97,7 +97,7 @@ let episodesList = [
     date: "21 Feb 2020",
     about: `Harish Bhat is the brand custodian of the Tata Sons group. He is also the Chairman of Tata Coffee, a brilliant marketer, author and columnist. Noah and Rohan sit down and quiz him on everything from defining a brand custodian to finding you true passion, and have an interesting discussion about his college life, the lessons he's learnt along the way, and an insight into how the Tata Group functions. He also talks about his books, and his love for writing.`,
     img:
-      "https://drive.google.com/uc?export=view&id=1Sp-Bnko0MWtz86Ue5zuoLTh4R1apj5ki",
+      "https://drive.google.com/uc?export=view&id=12eza6bLIcqzE6ovTtqt0CW6TdN8jSoM2",
     linkYT: "https://youtu.be/hj3fCQjT0Fg",
     linkSpotify: "",
   },
@@ -108,7 +108,7 @@ let episodesList = [
     date: "26 Jan 2020",
     about: `Noah and Rayan sit down with the founder of RedBus, Phanindra Sama and discuss everything from creating and eventually selling RedBus to college life, angel investing to his current job as Chief Innovation Officer of the state of Telangana.`,
     img:
-      "https://drive.google.com/uc?export=view&id=1p3Ydc109eaxfJaN1F3_dcsA81UH5Dffx",
+      "https://drive.google.com/uc?export=view&id=13WEfHEXu-kiVDs59NrHECV19QZHf6I4",
     linkYT: "https://youtu.be/6rigSrRMHxU",
     linkSpotify: "https://open.spotify.com/episode/6WRtV4TpXc7SgePfdBmQ2N",
   },
